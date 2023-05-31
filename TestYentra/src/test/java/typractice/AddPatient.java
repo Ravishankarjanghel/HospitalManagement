@@ -185,6 +185,7 @@ public class AddPatient {
 				String homePageUrl2 = driver.getCurrentUrl();
 				if (homePageUrl2.contains("Hospital_Management_System")) {
 					System.out.println("Hospital_Management_System web applications home page is displayed.");
+					//Thank you have a good day.
 				}
 			}
 
